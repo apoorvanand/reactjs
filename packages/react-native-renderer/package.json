@@ -4,7 +4,7 @@
   "private": true,
   "repository": "facebook/react",
   "dependencies": {
-    "fbjs": "^0.8.16",
+    "fbjs": "^2.0.0",
     "object-assign": "^4.1.1",
     "prop-types": "^15.6.0"
   },
